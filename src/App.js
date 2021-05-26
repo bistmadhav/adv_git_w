@@ -7,9 +7,17 @@ function App() {
   return (
     <div>
       <h1> Welcome to the git!!!!</h1>
+<<<<<<< HEAD
 
       <h2>This is heading two</h2>
 
+=======
+      <h2>This is second shot to conflict RK</h2>
+      <h3>I am working on MB BRANCH WITH</h3>
+      <article>
+        The national is the function we are the national is the function we can get 
+      </article>
+>>>>>>> MB
     </div>
   )
 }
