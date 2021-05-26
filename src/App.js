@@ -1,14 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-
 import React from 'react'
-
 function App() {
   return (
     <div>
       <h1> Welcome to the git!!!!</h1>
       <h2>This is heading two</h2>
-<<<<<<< HEAD
 
       <h2>This is second shot to conflict RK</h2>
       <h3>I am working on MB BRANCH WITH</h3>
@@ -22,9 +19,6 @@ function App() {
       <h3>
         The code that can change the world.
       </h3>
-=======
-      <h3>This is heading three</h3>
->>>>>>> RK
     </div>
   )
 }
