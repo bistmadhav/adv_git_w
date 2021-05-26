@@ -7,7 +7,9 @@ function App() {
   return (
     <div>
       <h1> Welcome to the git!!!!</h1>
-      <h2>This is MB making confilt with RK branch</h2>
+
+      <h2>This is heading two</h2>
+
     </div>
   )
 }
